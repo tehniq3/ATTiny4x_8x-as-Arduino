@@ -1,7 +1,7 @@
 # ATTiny4x8x-as-Arduino
 old version of files from https://github.com/damellis/attiny/
 
-
+<center>
 before:
 
 ![before](http://4.bp.blogspot.com/-Yf03olA45pA/VLZO8sSQinI/AAAAAAAAMco/_DpCHzrZjPE/s1600/ATtiny_01.JPG)
